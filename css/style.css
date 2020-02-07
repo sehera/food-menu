@@ -1,0 +1,35 @@
+table{
+  width: 400px;
+  border-spacing: 10px;
+  margin: 0;
+  padding: 0;
+}
+
+h2{
+  font-family:"Akzidenz-Grotesk", sans-serif;
+  font-size: 20px;
+}
+
+tr{
+  margin-right: 20px;
+  margin-left: 10px;
+}
+
+td{
+  vertical-align: top;
+
+}
+
+.small{
+  font-size: 13px;
+}
+
+.descrip{
+  font-size: 14px;
+}
+
+ul{
+list-style-type: none;
+margin:10px;
+padding:0;
+}
